@@ -6,7 +6,11 @@ public class Test {
 
  public static void main(String args[]) {
 
+<<<<<<< HEAD
 System.out.println("Employee ID and Employee Name");
+=======
+System.out.println("Employee ID & Employee Name");
+>>>>>>> newbranch1
 
   int[] numbers = {
    10,
