@@ -1,10 +1,12 @@
 public class Test {
 
  public void newbranch1() {
-  System.out.print("This is new branch1");
+  System.out.println("This is new branch1");
  }
 
  public static void main(String args[]) {
+
+System.out.println("Employee ID & Employee Name");
 
   int[] numbers = {
    10,
