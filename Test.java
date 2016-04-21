@@ -3,14 +3,13 @@ public class Test {
  public void newbranch1() {
   System.out.println("This is new branch1");
  }
+public void newbranch2() {
+  System.out.println("This is new branch2");
+ }
 
  public static void main(String args[]) {
 
-<<<<<<< HEAD
-System.out.println("Employee ID and Employee Name");
-=======
 System.out.println("Employee ID & Employee Name");
->>>>>>> newbranch1
 
   int[] numbers = {
    10,
@@ -36,6 +35,7 @@ System.out.println("Employee ID & Employee Name");
    System.out.print(",");
    Test t = new Test();
    t.newbranch1();
+t.newbranch2();
 
   }
  }
