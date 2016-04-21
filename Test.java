@@ -9,8 +9,12 @@ public void newbranch2() {
 
  public static void main(String args[]) {
 
+<<<<<<< HEAD
 System.out.println("Employee ID & Employee Name");
 
+=======
+System.out.println("Title: Employee ID & Employee Name");
+>>>>>>> newbranch2
 
   int[] numbers = {
    10,
